@@ -1,0 +1,30 @@
+.splash-container {
+   
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .splash-logo {
+    max-width: 60%;
+    max-height: 60%;
+    display: block;
+    margin: auto;
+  }
+
+  .splash-heading {
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+    
+  
+  }
+  
+  
+  
